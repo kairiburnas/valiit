@@ -6,7 +6,7 @@ public class DayOne {
         System.out.println("Kairi");
 
         int a = 0;
-        int b = 6;
+        int b = 7;
 
         if (a > 5) {
             System.out.println("Pidurda");
